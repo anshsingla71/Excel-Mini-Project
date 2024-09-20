@@ -1,4 +1,4 @@
- Project is a comprehensive data dashboard designed to provide insights through interactive charts, pivot tables, and filters. The project demonstrates advanced Excel functionalities, making it suitable for anyone looking to visualize data, perform analysis, or showcase Excel dashboard-building skills. Whether you’re a data analyst, student, or someone interested in business reporting, this project will help you understand key data analysis techniques in Excel.
+Walmart Retail Dashboard project is a comprehensive data dashboard designed to provide insights through interactive charts, pivot tables, and filters. The project demonstrates advanced Excel functionalities, making it suitable for anyone looking to visualize data, perform analysis, or showcase Excel dashboard-building skills. Whether you’re a data analyst, student, or someone interested in business reporting, this project will help you understand key data analysis techniques in Excel.
 
 Usage
 
